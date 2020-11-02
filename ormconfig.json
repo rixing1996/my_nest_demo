@@ -1,0 +1,12 @@
+{
+  "type": "mysql",
+  "host": "localhost",
+  "port": 3306,
+  "username": "xing",
+  "password": "ai520529874",
+  "database": "wuye",
+  "entities": [
+    "dist/**/*.entity{.ts,.js}"
+  ],
+  "synchronize": true
+}
